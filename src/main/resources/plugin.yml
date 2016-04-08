@@ -1,0 +1,6 @@
+name: ${project.name}
+main: org.bitbucket.jack_basukeraihu.ShopManager.MainClass
+authors: [jack_basukeraihu]
+version: ${project.version}
+commands:
+   shop:
